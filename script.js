@@ -16,7 +16,7 @@ $(document).ready(function () {
         desc: "Kalau Kamu Risih Bilang yahh,'I Have Crush On You',Semisal kamu udah punya pacar maaf yaa karna udah confess ke kamu...mungkin segitu saja dari aku,hehe makasih yaa sudah mau dibaca."
     }, {
         title: "I Have Crush On You!!",
-        desc: "Aku tunggu Balasan Mu:)"
+        desc: "ozii tunggu Balasan Mu:)"
  }];
     var currentPage = 0;
     //generate content
