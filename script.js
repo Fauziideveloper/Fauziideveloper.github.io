@@ -3,7 +3,7 @@ $(document).ready(function () {
      * Main variables
      */
     var content = [{
-        title: "I Have Crush On You!!",
+        title: "Pretty I Have Crush On You!!",
         desc: ""
     }, {
         title: "I Have Crush On You!!",
